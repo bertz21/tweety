@@ -8,3 +8,4 @@
 * Creating the User Factory and Tweet Factory
 * Building the Twitter website Clone Interface with the Tailwind and Laravel UI Authentication
 * Learning the Laravel File Storage
+* Learning PHP Trait by creating followable trait and likeable trait
