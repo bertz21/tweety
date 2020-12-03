@@ -4,8 +4,10 @@
 ### Tweety also is a part of the last series tutorial of Laracast Learning the Basic Laravel
 
 * Learning Basic Laravel Framework and Tailwind CSS
+* Learning laravel Model, View, Controller, and Route
 * Create Database with Laravel migration
 * Creating the User Factory and Tweet Factory
 * Building the Twitter website Clone Interface with the Tailwind and Laravel UI Authentication
-* Learning the Laravel File Storage
+* Learning the Laravel File Storage System
 * Learning PHP Trait by creating followable trait and likeable trait
+* learning Laravel Policy for authentication (middleware)
